@@ -1,0 +1,1 @@
+streamlit run "C:\Users\Rakes\OneDrive\Desktop\Group_Project-01\multiple-disease-prediction.py"
